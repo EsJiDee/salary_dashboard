@@ -6,7 +6,6 @@
 
 <!-- Image / Screenshot of the Dashboard -->
 ![Salary Dashboard Preview](docs/images/home.png)
-*(Note: Replace the image path above with the actual link to your dashboard screenshot once uploaded)*
 
 ## 📝 Project Overview
 

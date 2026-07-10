@@ -5,7 +5,7 @@
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge&logo=data&logoColor=white)](#)
 
 <!-- Image / Screenshot of the Dashboard -->
-![Salary Dashboard Preview](Screenshots/home.png)
+![Salary Dashboard Preview](Screenshot/home.png)
 
 ## 📝 Project Overview
 
